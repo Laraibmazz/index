@@ -1,3 +1,3 @@
 # index
 
-(Syllabus)[https://fsconline.info/download.php]
+[Syllabus](https://fsconline.info/download.php)
